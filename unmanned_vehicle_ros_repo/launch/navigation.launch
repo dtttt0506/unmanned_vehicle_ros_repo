@@ -1,0 +1,6 @@
+
+<launch>
+  <node pkg="navigation" type="path_planner.py" name="path_planner" output="screen"/>
+</launch>
+
+
