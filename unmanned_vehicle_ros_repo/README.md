@@ -97,9 +97,3 @@ unmanned_vehicle_ros_repo/
 ## 5. 代码示例
 
 具体代码请参考 `src` 目录下的各个ROS包中的Python脚本和XACRO文件。
-
-## 6. 贡献与反馈
-
-欢迎对本项目提出宝贵的意见和建议。
-
-
